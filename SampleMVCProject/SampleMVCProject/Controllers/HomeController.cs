@@ -9,7 +9,7 @@ namespace SampleMVCProject.Controllers
     public class HomeController : Controller
     {
         //
-        // GET: /Home/
+        // GET: /Home/ Created by Denesh
 
         public ActionResult Index()
         {
